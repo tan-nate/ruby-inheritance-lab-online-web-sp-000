@@ -26,3 +26,6 @@ nate.last_name = "Tan"
 nate.learn(some_knowledge)
 
 puts "Nate just learned this important knowledge: '#{nate.knowledge.first}' from Avi"
+
+puts nate.knowledge
+puts steve.knowledge
